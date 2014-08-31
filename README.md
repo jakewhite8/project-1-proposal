@@ -1,17 +1,17 @@
 # Name
-[Put your name here]
+Jake White
 
 # Sensor Type (10 points)
-[Light or Sound Sensor]
+Sound Sensor
 
 # Any prior experience? (10 points)
-[Tell us whether or not you've used arduino or other physical computing artifacts prior to this]
+negative
 
 # Have you soldered before? (5 points)
-[yes/no]
+no
 
 # How will you gather test data? (20 points)
-[Tell us what you'll try to sense (e.g., how much sun certain rooms get, how loud study rooms tend to be, how loud is your house, where's the best place to put your tomatoe plant, etc)]
+gather audio data in my living room therefore establishing the busiest and calmest times within my place of living
 
 # Which workshop will you attend? (5 points)
-[Tuesday 2:30-4:30 or Wednesday 5-7]
+tuesday 2:30 to 4:30
